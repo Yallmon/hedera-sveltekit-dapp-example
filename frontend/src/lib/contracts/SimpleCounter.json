@@ -1,0 +1,6 @@
+[
+  "function count() view returns (uint256)",
+  "function decrement()",
+  "function get() view returns (uint256)",
+  "function increment()"
+]
